@@ -6,7 +6,7 @@
         <table class="summary">
             <tr>
               <th>기간</th>
-              <td>2023.12.00 ~ 2023.00.00 (약 ~주)</td>
+              <td>2023.11.25 ~ 2024.01.19 (약 8주)</td>
             </tr>
             <tr>
               <th>인원구성</th>
@@ -128,8 +128,7 @@
             <h2 id="service-ui">서비스 UI</h2>
             <img src="./src/images/service_ui.png" height="300" alt="service_ui.png">
             <ul>
-                <li>Flask를 이용한 웹서비스 구현</li>
-                <li>Socket.IO를 통한 클라이언트-서버 실시간 통신</li>
+                <li>FastAPI를 이용한 웹서비스 구현</li>
             </ul>
             <br>
             <br>
@@ -150,8 +149,6 @@
 - 이모티콘 소비 특징 : 이모티콘 시장이 매우 커짐에 따라 종류가 다양화 되었지만, 여전히 이모티콘 사용자들은 자신이 선호하는 캐릭터 이모티콘을 사용하고 싶은 니즈를 보임
 - 개인화 캐릭터 생성 인기 : 2023년 AI 아바타 인기로, 사용자들은 나의 개성이 반영된 개인화 캐릭터 생성에 흥미를 느끼고 관심을 가짐.
   
- ## 페르소나 - 유저 활용기대
- - ppt 만들어지면 넣기
  
  ## 유사 서비스와의 차별점
 - 유사 서비스: 미모티콘, 네이버 툰 필터
@@ -348,51 +345,6 @@
 </p>
 
 
-## 🕋팀 정보 (Team Information)
-
-안녕하십니까, 저희는 영앤리츠팀입니다. 
-
-<table>
- <tr>
-  <td></td>
-  <td>Name</td>
-  <td>Role</td>
-  <td>github</td>
-  <td>e-mail</td>
- </tr>
-
- <tr>
-  <td align='center'><img src="https://avatars.githubusercontent.com/u/135305102?v=4" width="50" height="50"></td>
-  <td align='center'>고예진</td>
-  <td align='center'>Modeling / Dashboard</td>
-  <td align='center'><a href="https://github.com/tlsdmswn01"><img src="http://img.shields.io/badge/tlsdmswn01-green?style=social&logo=github"/></a></td>
-  <td align='center'><a href="mailto:sinssinej7@ajou.ac.kr"><img src="https://img.shields.io/badge/sinssinej7@ajou.ac.kr-green?logo=gmail&style=social"/></a></td>
- </tr>
- 
- <tr>
-  <td align='center'><img src="https://avatars.githubusercontent.com/u/135305102?v=4" width="50" height="50"></td>
-  <td align='center'>신은주</td>
-  <td align='center'>Modeling / Dashboard</td>
-  <td align='center'><a href="https://github.com/tlsdmswn01"><img src="http://img.shields.io/badge/tlsdmswn01-green?style=social&logo=github"/></a></td>
-  <td align='center'><a href="mailto:sinssinej7@ajou.ac.kr"><img src="https://img.shields.io/badge/sinssinej7@ajou.ac.kr-green?logo=gmail&style=social"/></a></td>
- </tr>
- 
- <tr>
-  <td align='center'><img src="https://avatars.githubusercontent.com/u/135305102?v=4" width="50" height="50"></td>
-  <td align='center'>이선주</td>
-  <td align='center'>Modeling / Dashboard</td>
-  <td align='center'><a href="https://github.com/tlsdmswn01"><img src="http://img.shields.io/badge/tlsdmswn01-green?style=social&logo=github"/></a></td>
-  <td align='center'><a href="mailto:sinssinej7@ajou.ac.kr"><img src="https://img.shields.io/badge/sinssinej7@ajou.ac.kr-green?logo=gmail&style=social"/></a></td>
- </tr>
-
- <tr>
-  <td align='center'><img src="https://avatars.githubusercontent.com/u/135305102?v=4" width="50" height="50"></td>
-  <td align='center'>이정호</td>
-  <td align='center'>아이디어 기획, StyleGAN2+Fine-tuning, Toonify</td>
-  <td align='center'><a href="https://github.com/tlsdmswn01"><img src="http://img.shields.io/badge/tlsdmswn01-green?style=social&logo=github"/></a></td>
-  <td align='center'><a href="mailto:sinssinej7@ajou.ac.kr"><img src="https://img.shields.io/badge/sinssinej7@ajou.ac.kr-green?logo=gmail&style=social"/></a></td>
- </tr>
-</table>
 </br>  
 
 
