@@ -66,9 +66,10 @@
                 <li>서비스</li>
                 <ul class="serve-ul">
                     <li><a href="#testing">활용 예시(시연 영상)</a></li>
+                        <iframe width="914" height="514" src="https://www.youtube.com/embed/4TTRWm90G4E" title="말하는 나만의 이모티콘 만들기 (마이톡콘) - 웹 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     <li><a href="#service-ui">서비스 UI</a></li>
                     <li><a href="#service-architecture">서비스 구조도</a></li>
-                    [![마이톡콘](http://img.youtube.com/vi/4TTRWm90G4E/0.jpg)](https://youtu.be/4TTRWm90G4E)     
+                     
                 </ul>
                 <br>
                 <li>아이디어 제안배경</li>
