@@ -126,7 +126,7 @@
             <br>
             <br>
             <h2 id="service-ui">서비스 UI</h2>
-            <img src="./src/images/service_ui.png" height="300" alt="service_ui.png">
+            <iframe width="914" height="514" src="https://www.youtube.com/embed/4TTRWm90G4E" title="말하는 나만의 이모티콘 만들기 (마이톡콘) - 웹 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <ul>
                 <li>Flask를 이용한 웹서비스 구현</li>
                 <li>Socket.IO를 통한 클라이언트-서버 실시간 통신</li>
