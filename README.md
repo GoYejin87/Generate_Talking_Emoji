@@ -68,6 +68,7 @@
                     <li><a href="#testing">활용 예시(시연 영상)</a></li>
                     <li><a href="#service-ui">서비스 UI</a></li>
                     <li><a href="#service-architecture">서비스 구조도</a></li>
+                    [![마이톡콘](http://img.youtube.com/vi/4TTRWm90G4E/0.jpg)](https://youtu.be/4TTRWm90G4E)     
                 </ul>
                 <br>
                 <li>아이디어 제안배경</li>
