@@ -1,6 +1,7 @@
 # Generate_Talking_Emoji
 원하는 캐릭터로 사용자의 특성과 음성을 반영한 말하는 이모티콘 생성 프로젝트입니다.
 
+
 <h2>프로젝트 개요</h2>
         <table class="summary">
             <tr>
@@ -66,9 +67,8 @@
                 <li>서비스</li>
                 <ul class="serve-ul">
                     <li><a href="#testing">활용 예시(시연 영상)</a></li>
-                    <li><a href="#service-ui">서비스 UI</a></li>    
+                    <li><a href="#service-ui">서비스 UI</a></li>
                     <li><a href="#service-architecture">서비스 구조도</a></li>
-                     
                 </ul>
                 <br>
                 <li>아이디어 제안배경</li>
@@ -126,7 +126,7 @@
             <br>
             <br>
             <h2 id="service-ui">서비스 UI</h2>
-            
+            <img src="./src/images/service_ui.png" height="300" alt="service_ui.png">
             <ul>
                 <li>Flask를 이용한 웹서비스 구현</li>
                 <li>Socket.IO를 통한 클라이언트-서버 실시간 통신</li>
@@ -394,5 +394,7 @@
  </tr>
 </table>
 </br>  
+
+
 
 
