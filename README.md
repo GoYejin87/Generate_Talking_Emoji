@@ -122,7 +122,6 @@
  <div id="service-section">
             <h1>⭐ 서비스</h1>
             <h2 id="testing">활용 예시</h2>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/4TTRWm90G4E" title="YouTube video player" frameborder="0" allow="accelerometer;
             <img src="./src/images/service_testing.gif" height="400">
             <br>
             <br>
