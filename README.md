@@ -66,8 +66,7 @@
                 <li>서비스</li>
                 <ul class="serve-ul">
                     <li><a href="#testing">활용 예시(시연 영상)</a></li>
-                    <li><a href="#service-ui">서비스 UI</a></li>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/4TTRWm90G4E" title="YouTube video player" frameborder="0" allow="accelerometer;    
+                    <li><a href="#service-ui">서비스 UI</a></li>    
                     <li><a href="#service-architecture">서비스 구조도</a></li>
                      
                 </ul>
@@ -123,11 +122,12 @@
  <div id="service-section">
             <h1>⭐ 서비스</h1>
             <h2 id="testing">활용 예시</h2>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4TTRWm90G4E" title="YouTube video player" frameborder="0" allow="accelerometer;
             <img src="./src/images/service_testing.gif" height="400">
             <br>
             <br>
             <h2 id="service-ui">서비스 UI</h2>
-            <iframe width="914" height="514" src="https://www.youtube.com/embed/4TTRWm90G4E" title="말하는 나만의 이모티콘 만들기 (마이톡콘) - 웹 시연 영상" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            
             <ul>
                 <li>Flask를 이용한 웹서비스 구현</li>
                 <li>Socket.IO를 통한 클라이언트-서버 실시간 통신</li>
